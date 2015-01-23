@@ -8,7 +8,7 @@
 
 ## 設定されている項目
  - Edit -> Project Setting -> Editor
- - Version Control Mode : AssetServer
- - Asset Serialization Mode : ForceText
- - Default Behaviour Mode : 3D
-  - 2D Projectなら2Dにしてください
+  - Version Control Mode : AssetServer
+  - Asset Serialization Mode : ForceText
+  - Default Behaviour Mode : 3D
+   - 2D Projectなら2Dにしてください
