@@ -15,3 +15,6 @@
   - Asset Serialization Mode : ForceText
   - Default Behaviour Mode : 3D
     - 2D Projectなら2Dにしてください
+## その他
+ - commit messageに日本語が使えなかったら以下をいれるとたぶんいける
+ - http://caitsithware.com/wordpress/archives/1362
