@@ -5,10 +5,13 @@
 
 ## 注意
  - GameJamなどで配布されるUnity pro trial license、もしくはteam licenseをもっていないと使えません。
+ - クライアントの設定です。別途AssetServerサーバーを立てる必要があります。
+  　- 管理者設定は以下あたり参照
+  　- http://www.slideshare.net/keigoando/asset-server-11215484 
 
 ## 設定されている項目
  - Edit -> Project Setting -> Editor
   - Version Control Mode : AssetServer
   - Asset Serialization Mode : ForceText
   - Default Behaviour Mode : 3D
-   - 2D Projectなら2Dにしてください
+    - 2D Projectなら2Dにしてください
